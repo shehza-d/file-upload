@@ -2,7 +2,9 @@
 
 File upload boiler plates of
 
-1. NodeJs to Firebase Bucket or Cloudinary
-1. Serverless to AWS s3
+1. **NodeJs to Firebase Storage Bucket**
+1. **NodeJs to Cloudinary**
+1. **NodeJs to AWS S3**
+1. **Serverless to AWS S3**
 
 https://github.com/Lekejosh/Streamlining-image-upload
